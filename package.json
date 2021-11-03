@@ -48,7 +48,7 @@
     "nodemailer": "^5.1.1",
     "password-validator": "^4.1.1",
     "pify": "^4.0.1",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
